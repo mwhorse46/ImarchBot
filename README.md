@@ -5,13 +5,8 @@
 Hello there! 👋🏻 I'm ImarchBot, an inline bot for Telegram written in Python that helps you to search
 for any kind of images 🤯 on the web using Google search engine 🔍.
 
-My Telegram username is [@ImarchBot](https://t.me/ImarchBot)
-
 ## How to use me?
 
-Please go ahead and start me by typing `/start` in [your Telegram](https://qiamast.github.io/ImarchBot/) chat,
-then you can use me to search for any image on the web by typing `@ImarchBot` in any chat followed by
-any image name.
 For instance, you can type `@ImarchBot` followed by `cat` to search for any image of a cat:
 `@ImarchBot cat` and you'll a list of images that you can click on to see the image.
 
